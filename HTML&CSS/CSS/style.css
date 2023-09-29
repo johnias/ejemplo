@@ -1,0 +1,41 @@
+
+/* selector{
+    propiedad:valor;
+}
+Selectores
+    Selectores elementales
+        Selector universal *{}
+        Selector tipo etiqueta
+    Selectores de atributo
+        Seletor tipo ID
+        Selector tipo clase */
+
+*{
+    background-color: bisque;
+}
+h1{
+    background-color: aquamarine;
+}
+p{
+    background-color: aqua;
+    margin: 0;
+}
+
+#titulo{
+    background-color: blueviolet;
+}
+
+.parrafo{
+    background-color: brown;
+    color: rgb(190, 200, 209);
+}
+.link{
+    color: inherit;
+}
+.lista{
+    color: rgb(249, 3, 3);
+}
+.item-3{
+    color:initial;
+}
+
